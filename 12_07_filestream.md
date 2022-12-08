@@ -289,4 +289,13 @@ format 설명이다.
 <span style:color="red">"replaced by the values"</span>
 
 
+헛짓하고 있었는데, 석사횽이 알려줬다.
 
+https://aeunhi99.tistory.com/39
+사이트에 나와있듯이, scanf , fscnaf는 포매팅당 변수 하나였다.
+
+```
+scanf("%s %s", x1, x2); 
+```
+이런 식이다.
+아 삽질이 드디어 끝!
