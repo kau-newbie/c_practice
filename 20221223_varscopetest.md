@@ -92,7 +92,7 @@ int main(){
 }
 ```
 i가 제일 아래 printf에서 없댄다.  
-약간 hierarchy가 있는 것 같다.
+일종의 hierarchy가 있는 것 같다.
 ```
 main(
     조건문(
